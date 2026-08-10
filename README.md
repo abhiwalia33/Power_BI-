@@ -23,9 +23,7 @@ As someone moving from a sales background into data analytics, I wanted a projec
 - Built DAX measures for revenue, growth, and rep performance metrics
 - Designed the report for at-a-glance readability — KPI cards up top, drill-down detail below
 
-## Key Finding
 
-*(Add your actual top-line insight here — e.g., "X region accounted for Y% of total revenue despite only Z% of sales reps" or "Top 3 products drove nearly half of total revenue.")*
 
 ## Tools
 
